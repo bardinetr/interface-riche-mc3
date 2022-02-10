@@ -1,0 +1,53 @@
+.Message-in {
+  background-color: #e1d6ed;
+  align-content: flex-start;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  max-width: 75%;
+  overflow-wrap: anywhere;
+  text-align: justify;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+.Message-flex-in {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.Message-out {
+  background-color: #007bee;
+  align-content: flex-start;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  max-width: 75%;
+  overflow-wrap: anywhere;
+  color: white;
+  text-align: justify;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+.Message-flex-out {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.Message-name {
+  text-align: left;
+  font-size: smaller;
+  font-style: italic;
+  position: relative;
+  top: -0.7rem;
+  left: -0.3rem;
+}
+
+.Message-moment {
+  text-align: center;
+  padding-top: 0.5rem;
+}
+
+.Message-moment-text {
+  font-weight: bold;
+  font-style: italic;
+}

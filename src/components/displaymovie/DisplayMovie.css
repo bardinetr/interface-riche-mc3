@@ -1,0 +1,31 @@
+.Movie-container {
+  flex-direction: row;
+  display: flex;
+  min-width: 1000px;
+}
+
+.Map-container {
+  flex-direction: row;
+  display: flex;
+  min-width: 1000px;
+}
+
+.Word-line {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 0.5rem;
+}
+
+.Fetch-movie {
+  display: flex;
+  justify-content: center;
+}
+
+.Arrow-icon {
+  align-self: center;
+  padding: 1rem;
+}
+
+.Focus-btn {
+  background-color: rgb(144, 255, 177);
+}

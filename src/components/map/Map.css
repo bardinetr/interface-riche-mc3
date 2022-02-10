@@ -1,0 +1,8 @@
+.Wordlist {
+  margin-left: 1rem;
+  text-align: start;
+  max-height: 400px;
+  min-width: 200px;
+  overflow-y: scroll;
+  flex-grow: 3;
+}

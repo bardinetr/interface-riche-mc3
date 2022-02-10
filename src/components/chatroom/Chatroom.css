@@ -1,0 +1,32 @@
+.Chatroom {
+  text-align: -webkit-center;
+  min-width: 1000px;
+}
+
+.Input-room {
+  width: 90%;
+  display: flex;
+  height: 2rem;
+}
+
+.Input-box {
+  width: -webkit-fill-available;
+  border-width: 1px;
+}
+
+.Input-moment {
+  white-space: nowrap;
+  padding-right: 1rem;
+  padding-top: 0.3rem;
+}
+
+.Chat-display {
+  max-height: 500px;
+  min-height: 100px;
+  overflow-y: scroll;
+  border-radius: 10px;
+  border-color: #e1d6ed;
+  border-style: inset;
+  border-width: 1px;
+  padding-top: 1rem;
+}
